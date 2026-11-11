@@ -13,7 +13,7 @@
 ### `~/whoami`
 
 ```python
-class Kamrul:
+class Nahid:
     role      = "M.Sc. Researcher, CSE, Jahangirnagar University 🇧🇩"
     obsessed  = ["Bangla NLP", "LLM evaluation", "Fact-checking", "Cyber Security"]
     mission   = "Make AI trustworthy for languages the internet forgot"
