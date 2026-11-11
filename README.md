@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Teaching+machines+to+read+Bangla;Catching+LLM+hallucinations+before+they+spread;Breaking+things+(ethically)+to+make+them+safer;M.Sc.+CSE+%40+Jahangirnagar+University)](https://git.io/typing-svg)
 
+<img src="https://komarev.com/ghpvc/?username=Nahid-29&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
 </div>
 
 ---
